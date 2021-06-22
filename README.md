@@ -5,4 +5,5 @@
 <br>
 <img width="623" alt="1" src="https://user-images.githubusercontent.com/86303137/122943355-8937c780-d3a9-11eb-84e2-b3bde120df29.png">
 <br>
-![GITHUB](https://github.com/leokypss95020/final_107331/blob/main/2.png)
+<img width="503" alt="2" src="https://user-images.githubusercontent.com/86303137/122943724-d7e56180-d3a9-11eb-8279-eb2dd3a40691.png">
+
