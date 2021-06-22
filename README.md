@@ -16,3 +16,5 @@
 這部分能夠管理我要寄送的文字內容，圖片以及夾帶附件
 <img width="530" alt="5" src="https://user-images.githubusercontent.com/86303137/122944696-9ef9bc80-d3aa-11eb-8f29-7f6a498823f7.png">
 <br>
+最後整合content，寄出郵件
+![image](https://user-images.githubusercontent.com/86303137/122945161-f39d3780-d3aa-11eb-8d80-69ba80cc4f60.png)
