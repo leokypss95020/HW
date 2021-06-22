@@ -34,6 +34,6 @@
 
 
 <h3>References:</h3>
-https://developers.google.com/gmail/api/guides/sending
-https://webb99.pixnet.net/blog/post/348000605-%E5%9C%A8-python-%E4%BD%BF%E7%94%A8-gmail-api-%E7%99%BC%E4%BF%A1
-https://www.runoob.com/python/python-email.html
+<br>https://developers.google.com/gmail/api/guides/sending
+<br>https://webb99.pixnet.net/blog/post/348000605-%E5%9C%A8-python-%E4%BD%BF%E7%94%A8-gmail-api-%E7%99%BC%E4%BF%A1
+<br>https://www.runoob.com/python/python-email.html
