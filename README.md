@@ -3,6 +3,6 @@
 最重要的便是關於Gmail API的存取要求，才能使用外部裝置來傳送mail
 我必須進入GOOGLE，取得印用程式密碼，這在程式中會運用在登入我的帳號
 <br>
-![GITHUB](https://github.com/leokypss95020/final_107331/blob/main/1.png)
+![](https://github.com/leokypss95020/final_107331/blob/main/1.png)
 <br>
 ![GITHUB](https://github.com/leokypss95020/final_107331/blob/main/2.png)
