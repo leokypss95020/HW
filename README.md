@@ -6,4 +6,13 @@
 <img width="623" alt="1" src="https://user-images.githubusercontent.com/86303137/122943355-8937c780-d3a9-11eb-84e2-b3bde120df29.png">
 <br>
 <img width="503" alt="2" src="https://user-images.githubusercontent.com/86303137/122943724-d7e56180-d3a9-11eb-8279-eb2dd3a40691.png">
-
+<br>
+這部分是信件的標題!!!
+<img width="346" alt="螢幕擷取畫面 2021-06-22 222721" src="https://user-images.githubusercontent.com/86303137/122944424-6659e300-d3aa-11eb-90dd-c6210fd67bbe.png">
+<br>
+寫入寄件人和收件人
+<img width="375" alt="4" src="https://user-images.githubusercontent.com/86303137/122944433-68bc3d00-d3aa-11eb-81dd-ecdcde2f608e.png">
+<br>
+這部分能夠管理我要寄送的文字內容，圖片以及夾帶附件
+<img width="530" alt="5" src="https://user-images.githubusercontent.com/86303137/122944696-9ef9bc80-d3aa-11eb-8f29-7f6a498823f7.png">
+<br>
