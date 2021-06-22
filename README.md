@@ -5,5 +5,7 @@
 <br>
 ![GITHUB](https://github.com/leokypss95020/final_107331/blob/main/1.png)
 <br>
-```python smtp.login("leokypss95020@gmail.com", "vmbzdkncydjrdrmf")  #寄件者gmail,應用程式密碼
-        content = MIMEMultipart()```
+```python
+s = "Python 語法高亮"
+print s
+```
