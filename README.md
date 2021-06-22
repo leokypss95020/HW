@@ -17,4 +17,8 @@
 <img width="530" alt="5" src="https://user-images.githubusercontent.com/86303137/122944696-9ef9bc80-d3aa-11eb-8f29-7f6a498823f7.png">
 <br>
 最後整合content，寄出郵件
-![image](https://user-images.githubusercontent.com/86303137/122945161-f39d3780-d3aa-11eb-8d80-69ba80cc4f60.png)
+<img width="274" alt="6" src="https://user-images.githubusercontent.com/86303137/122945273-0dd71580-d3ab-11eb-817d-b34123f248bf.png">
+
+<h3>Introduction:</h3>
+我原本是想要運用mail這個功能，來實現大量寄信給很多人，有點類似寄大量廣告郵件那樣，不過我目前找不到方法去實現如何獲取大量的郵件地址，且也不方便打饒陌生人
+<br>
