@@ -31,7 +31,7 @@
 這是我測試出來的結果，
 寄信人和收件人都是我自己，能清楚的看到Title(繳交作業)、內文(姓名)、圖片以及檔案
 <br>
-![8](https://user-images.githubusercontent.com/86303137/122947705-f0a34680-d3ac-11eb-838c-b0a1cf45b1fb.jpg)
+<img width="251" alt="9" src="https://user-images.githubusercontent.com/86303137/122947982-22b4a880-d3ad-11eb-8c60-fa86d89d0c31.png">
 
 
 
