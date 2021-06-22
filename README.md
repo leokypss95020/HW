@@ -5,7 +5,4 @@
 <br>
 ![GITHUB](https://github.com/leokypss95020/final_107331/blob/main/1.png)
 <br>
-```javascript
-var s = "JavaScript 語法高亮";
-alert(s);
-```
+
