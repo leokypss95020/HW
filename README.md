@@ -5,4 +5,4 @@
 <br>
 ![GITHUB](https://github.com/leokypss95020/final_107331/blob/main/1.png)
 <br>
-``` smtp.login("leokypss95020@gmail.com", "vmbzdkncydjrdrmf")  #寄件者gmail,應用程式密碼
+``` smtp.login("leokypss95020@gmail.com", "vmbzdkncydjrdrmf")  #寄件者gmail,應用程式密碼```
