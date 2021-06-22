@@ -5,7 +5,7 @@
 <br>
 ![GITHUB](https://github.com/leokypss95020/final_107331/blob/main/1.png)
 <br>
-```python
-s = "Python 語法高亮"
-print s
+```javascript
+var s = "JavaScript 語法高亮";
+alert(s);
 ```
